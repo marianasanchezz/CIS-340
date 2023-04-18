@@ -4,7 +4,7 @@ import { Text, View, Image } from 'react-native';
 export default function CatApp() {
 
   let pic = {
-    uri:'https://raw.githubusercontent.com/AbdunabiRamadan/CIS340/master/images/dog2.png'};
+    uri:'https://raw.githubusercontent.com/AbdunabiRamadan/CIS340-Images/main/images/mydog.jpg'};
 
   return (
     <View style = {{
